@@ -1,0 +1,46 @@
+Research Areas	Record Count	% of 299
+Engineering	162	54.181
+Astronomy Astrophysics	87	29.097
+Geology	58	19.398
+Meteorology Atmospheric Sciences	50	16.722
+Life Sciences Biomedicine Other Topics	30	10.033
+Plant Sciences	29	9.699
+Science Technology Other Topics	24	8.027
+Environmental Sciences Ecology	18	6.020
+Microbiology	16	5.351
+Agriculture	15	5.017
+Chemistry	13	4.348
+Biotechnology Applied Microbiology	10	3.344
+Physics	9	3.010
+Materials Science	8	2.676
+Computer Science	7	2.341
+Biochemistry Molecular Biology	6	2.007
+Biophysics	6	2.007
+Food Science Technology	4	1.338
+Instruments Instrumentation	4	1.338
+Mechanics	4	1.338
+Thermodynamics	4	1.338
+Energy Fuels	3	1.003
+Optics	3	1.003
+Public Environmental Occupational Health	2	0.669
+Robotics	2	0.669
+Telecommunications	2	0.669
+Water Resources	2	0.669
+Automation Control Systems	1	0.334
+Behavioral Sciences	1	0.334
+Cardiovascular System Cardiology	1	0.334
+Education Educational Research	1	0.334
+Electrochemistry	1	0.334
+Genetics Heredity	1	0.334
+International Relations	1	0.334
+Marine Freshwater Biology	1	0.334
+Metallurgy Metallurgical Engineering	1	0.334
+Nuclear Science Technology	1	0.334
+Nutrition Dietetics	1	0.334
+Operations Research Management Science	1	0.334
+Physiology	1	0.334
+Psychology	1	0.334
+Research Experimental Medicine	1	0.334
+Respiratory System	1	0.334
+Social Sciences Other Topics	1	0.334
+Surgery	1	0.334

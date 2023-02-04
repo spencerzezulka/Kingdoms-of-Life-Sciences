@@ -1,0 +1,102 @@
+Research Areas	Record Count	% of 1,109
+Engineering	195	17.583
+General Internal Medicine	190	17.133
+Public Environmental Occupational Health	164	14.788
+Sport Sciences	126	11.362
+Science Technology Other Topics	108	9.739
+Biochemistry Molecular Biology	73	6.583
+Research Experimental Medicine	58	5.230
+Physiology	56	5.050
+Life Sciences Biomedicine Other Topics	49	4.418
+Biophysics	48	4.328
+Chemistry	47	4.238
+Astronomy Astrophysics	45	4.058
+Cell Biology	41	3.697
+Microbiology	36	3.246
+Physics	33	2.976
+Neurosciences Neurology	32	2.885
+Biotechnology Applied Microbiology	29	2.615
+Materials Science	28	2.525
+Pharmacology Pharmacy	26	2.344
+Radiology Nuclear Medicine Medical Imaging	24	2.164
+Computer Science	22	1.984
+Geology	21	1.894
+Cardiovascular System Cardiology	16	1.443
+Endocrinology Metabolism	16	1.443
+Optics	16	1.443
+Nutrition Dietetics	14	1.262
+Surgery	14	1.262
+Instruments Instrumentation	13	1.172
+Meteorology Atmospheric Sciences	13	1.172
+Environmental Sciences Ecology	12	1.082
+Food Science Technology	12	1.082
+Medical Laboratory Technology	11	0.992
+History Philosophy Of Science	10	0.902
+Nuclear Science Technology	10	0.902
+Emergency Medicine	9	0.812
+Otorhinolaryngology	9	0.812
+Psychology	9	0.812
+Anesthesiology	8	0.721
+Ophthalmology	8	0.721
+Toxicology	8	0.721
+Immunology	7	0.631
+Tropical Medicine	7	0.631
+Electrochemistry	6	0.541
+Integrative Complementary Medicine	6	0.541
+Medical Informatics	6	0.541
+Respiratory System	6	0.541
+Telecommunications	6	0.541
+Thermodynamics	6	0.541
+Crystallography	5	0.451
+Health Care Sciences Services	5	0.451
+Plant Sciences	5	0.451
+Rehabilitation	5	0.451
+Automation Control Systems	4	0.361
+Behavioral Sciences	4	0.361
+Dermatology	4	0.361
+Developmental Biology	4	0.361
+Genetics Heredity	4	0.361
+Infectious Diseases	4	0.361
+Mathematical Computational Biology	4	0.361
+Mathematics	4	0.361
+Mechanics	4	0.361
+Oncology	4	0.361
+Spectroscopy	4	0.361
+Business Economics	3	0.271
+Geriatrics Gerontology	3	0.271
+Government Law	3	0.271
+Operations Research Management Science	3	0.271
+Psychiatry	3	0.271
+Remote Sensing	3	0.271
+Social Sciences Other Topics	3	0.271
+Acoustics	2	0.180
+Education Educational Research	2	0.180
+Hematology	2	0.180
+History	2	0.180
+Marine Freshwater Biology	2	0.180
+Obstetrics Gynecology	2	0.180
+Orthopedics	2	0.180
+Pathology	2	0.180
+Public Administration	2	0.180
+Robotics	2	0.180
+Transportation	2	0.180
+Urology Nephrology	2	0.180
+Agriculture	1	0.090
+Anatomy Morphology	1	0.090
+Architecture	1	0.090
+Arts Humanities Other Topics	1	0.090
+Biomedical Social Sciences	1	0.090
+Construction Building Technology	1	0.090
+Evolutionary Biology	1	0.090
+Gastroenterology Hepatology	1	0.090
+Information Science Library Science	1	0.090
+International Relations	1	0.090
+Pediatrics	1	0.090
+Philosophy	1	0.090
+Polymer Science	1	0.090
+Rheumatology	1	0.090
+Social Issues	1	0.090
+Sociology	1	0.090
+Veterinary Sciences	1	0.090
+Women S Studies	1	0.090
+67 record(s) (6.041%) do not contain data in the field being analyzed

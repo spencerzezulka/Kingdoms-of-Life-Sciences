@@ -1,0 +1,106 @@
+Research Areas	Record Count	% of 13,566
+Astronomy Astrophysics	7425	54.732
+Life Sciences Biomedicine Other Topics	4948	36.474
+Geology	4769	35.154
+Geochemistry Geophysics	1144	8.433
+Microbiology	822	6.059
+Science Technology Other Topics	795	5.860
+Chemistry	760	5.602
+Environmental Sciences Ecology	584	4.305
+Engineering	487	3.590
+Biochemistry Molecular Biology	431	3.177
+Optics	386	2.845
+Instruments Instrumentation	364	2.683
+Physics	317	2.337
+Cell Biology	303	2.234
+Evolutionary Biology	201	1.482
+Paleontology	196	1.445
+Meteorology Atmospheric Sciences	182	1.342
+Biotechnology Applied Microbiology	148	1.091
+Mineralogy	139	1.025
+Spectroscopy	123	0.907
+Genetics Heredity	115	0.848
+History Philosophy Of Science	91	0.671
+Physical Geography	89	0.656
+Materials Science	83	0.612
+Oceanography	79	0.582
+Education Educational Research	75	0.553
+Biophysics	74	0.545
+Remote Sensing	69	0.509
+Mathematical Computational Biology	67	0.494
+Plant Sciences	58	0.428
+Computer Science	49	0.361
+Biodiversity Conservation	46	0.339
+Marine Freshwater Biology	40	0.295
+Religion	36	0.265
+Social Sciences Other Topics	35	0.258
+Zoology	34	0.251
+Mathematics	30	0.221
+Philosophy	30	0.221
+Pharmacology Pharmacy	23	0.170
+Mining Mineral Processing	22	0.162
+Developmental Biology	21	0.155
+Robotics	16	0.118
+Electrochemistry	14	0.103
+Agriculture	13	0.096
+Nuclear Science Technology	13	0.096
+Area Studies	11	0.081
+Crystallography	11	0.081
+Energy Fuels	11	0.081
+Information Science Library Science	11	0.081
+Polymer Science	11	0.081
+Water Resources	11	0.081
+Social Issues	10	0.074
+International Relations	9	0.066
+Mycology	9	0.066
+Research Experimental Medicine	9	0.066
+Physiology	8	0.059
+Imaging Science Photographic Technology	7	0.052
+Arts Humanities Other Topics	6	0.044
+Food Science Technology	6	0.044
+Immunology	6	0.044
+Mechanics	6	0.044
+Automation Control Systems	5	0.037
+Endocrinology Metabolism	5	0.037
+Entomology	5	0.037
+General Internal Medicine	5	0.037
+Public Administration	5	0.037
+Telecommunications	5	0.037
+Thermodynamics	5	0.037
+Anatomy Morphology	4	0.029
+Business Economics	4	0.029
+History	4	0.029
+Metallurgy Metallurgical Engineering	4	0.029
+Neurosciences Neurology	4	0.029
+Cultural Studies	3	0.022
+Psychology	3	0.022
+Public Environmental Occupational Health	3	0.022
+Urology Nephrology	3	0.022
+Anthropology	2	0.015
+Art	2	0.015
+Cardiovascular System Cardiology	2	0.015
+Geography	2	0.015
+Government Law	2	0.015
+Infectious Diseases	2	0.015
+Linguistics	2	0.015
+Microscopy	2	0.015
+Sport Sciences	2	0.015
+Virology	2	0.015
+Acoustics	1	0.007
+Archaeology	1	0.007
+Audiology Speech Language Pathology	1	0.007
+Behavioral Sciences	1	0.007
+Biomedical Social Sciences	1	0.007
+Dermatology	1	0.007
+Health Care Sciences Services	1	0.007
+Mathematical Methods In Social Sciences	1	0.007
+Medical Laboratory Technology	1	0.007
+Oncology	1	0.007
+Operations Research Management Science	1	0.007
+Parasitology	1	0.007
+Pediatrics	1	0.007
+Radiology Nuclear Medicine Medical Imaging	1	0.007
+Sociology	1	0.007
+Theater	1	0.007
+Tropical Medicine	1	0.007
+22 record(s) (0.162%) do not contain data in the field being analyzed
